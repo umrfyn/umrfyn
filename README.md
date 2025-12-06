@@ -22,8 +22,9 @@
 
 <div align="center">
   <a href="https://discord.com/users/874898422233178142">
-    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard..." alt="Discord Presence">
+    <img src="https://lanyard-profile-readme.vercel.app/api/874898422233178142?theme=light&bg=ce74ff&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Currently%20taking%20a%20break%20from%20the%20keyboard..." alt="Discord Presence">
   </a>
 </div>
+
 
 </div>
