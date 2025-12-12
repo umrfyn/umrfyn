@@ -8,11 +8,13 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umrfyn/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Dark Mode">
-  <img src="https://raw.githubusercontent.com/umrfyn/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Light Mode">
-  <img src="https://raw.githubusercontent.com/umrfyn/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Dark Mode">
-  <img src="https://raw.githubusercontent.com/umrfyn/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Top Languages Light Mode">
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-dark-mode-only" alt="overview dark" />
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/overview.svg#gh-light-mode-only" alt="overview light" />
+
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages dark" />
+  <img src="https://raw.githubusercontent.com/umrfyn/stats/master/generated/languages.svg#gh-light-mode-only" alt="languages light" />
 </div>
+
 
 <div align="center">
   <img src="https://count.getloli.com/@4levy?name=4levy&theme=booru-touhoulat" alt="Failed ">
